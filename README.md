@@ -11,4 +11,6 @@ https://aqs.epa.gov/aqsweb/airdata/FileFormats.html
 For the Covid Data: We collected the data from the New York State Govt NY.<br />
 https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e
 
-Metadata for Covid-19 from NY State Health website- pdf files in the "data" folder
+Metadata for Covid-19 from NY State Health website- pdf files in the "data" folder:
+1) NYSDOH_COVID19_Data_Dictionary.pdf
+2) NYSDOH_COVID19_Overview.pdf
